@@ -62,6 +62,10 @@ C++ is a powerful language that builds on the foundation of C. It supports objec
 - **Open Source Community**: Thanks to the open source community for their contributions and resources that make learning and coding in C++ more accessible.
 - **Inspiration**: This repository is inspired by various educational resources and contributions from the programming community.
 
+## Author
+
+This repository is maintained by Sadia Sakharkar. 
+
 ## Contact
 
 For questions, suggestions, or feedback, please open an issue or contact sakharkarsadia@gmail.com
