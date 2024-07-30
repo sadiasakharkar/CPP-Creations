@@ -42,7 +42,7 @@ C++ is a powerful language that builds on the foundation of C. It supports objec
 
 ## Features
 
-- **Comprehensive Collection**: Contains over 120 programs covering a broad range of C++ programming topics.
+- **Comprehensive Collection**: Contains over 60+ programs covering a broad range of C++ programming topics.
 - **Beginner-Friendly Examples**: Suitable for beginners and intermediate developers.
 - **Educational Focus**: Aimed at helping both beginners and intermediate programmers improve their C++ skills.
 
